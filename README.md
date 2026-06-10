@@ -10,7 +10,7 @@ Data process workflow is defined as follow:
 
 3. [clusteringpop.py](https://github.com/BenACVIU/MeteorologicalForecastDOA/clusteringpop.py). Process to obtain clusters in provinces based on municipalities population.
 
-4. [extractmeteo.py](https://github.com/BenACVIU/MeteorologicalForecastDOA/scripts/ExtractMeteoData.py). Extract data from raster files using areal data (spatial clusters). nput data 
+4. [extractmeteo.py](https://github.com/BenACVIU/MeteorologicalForecastDOA/scripts/extractmeteo.py). Extract data from raster files using areal data (spatial clusters). nput data 
 
 5. [dataintegration.py](https://github.com/BenACVIU/MeteorologicalForecastDOA/scripts/dataintegration.py). Join dataframes script and load into SQLite.
 
