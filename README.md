@@ -4,7 +4,7 @@
 
 Data process workflow is defined as follow:
 
-1. [copernicusdata.py](https://github.com/BenACVIU/MeteorologicalForecastDOA/scripts/CopernicusData.py). An example of download data from CERRA catalog of Copernicus CDS. Data is stored in download folder inside data folder (in parent path project).
+1. [copernicusdata.py](https://github.com/BenACVIU/MeteorologicalForecastDOA/scripts/copernicusdata.py). An example of download data from CERRA catalog of Copernicus CDS. Data is stored in download folder inside data folder (in parent path project).
 
 2. [processdoa.py](https://github.com/BenACVIU/MeteorologicalForecastDOA/scripts/processdoa.py). Module to process DOA index from grib files downloaded from Copernicus.
 
